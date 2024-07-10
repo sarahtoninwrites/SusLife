@@ -7,18 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D67B21102C3E57240029D39F /* ProfileSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B210F2C3E57240029D39F /* ProfileSetUp.swift */; };
+		D67B21122C3E58FA0029D39F /* StepCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B21112C3E58FA0029D39F /* StepCounterView.swift */; };
+		D67B21142C3E8ADB0029D39F /* SDGView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B21132C3E8ADB0029D39F /* SDGView.swift */; };
+		D67B21162C3E8FDE0029D39F /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B21152C3E8FDE0029D39F /* ProfileView.swift */; };
+		D67B21182C3ECDFF0029D39F /* MainAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B21172C3ECDFF0029D39F /* MainAppView.swift */; };
 		D6E1D80B2C2DEB7E007C1446 /* suslifeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D80A2C2DEB7E007C1446 /* suslifeApp.swift */; };
 		D6E1D80D2C2DEB7E007C1446 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D80C2C2DEB7E007C1446 /* ContentView.swift */; };
 		D6E1D80F2C2DEB80007C1446 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */; };
 		D6E1D8122C2DEB80007C1446 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D8112C2DEB80007C1446 /* Preview Assets.xcassets */; };
+		D6E1D81D2C2E8476007C1446 /* ChatbotService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */; };
+		D6E1D8202C2FD079007C1446 /* ChatBotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */; };
+		D6E1D8252C302C5F007C1446 /* suslife-8c42d8370996.json in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D8242C302C5F007C1446 /* suslife-8c42d8370996.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D67B210F2C3E57240029D39F /* ProfileSetUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSetUp.swift; sourceTree = "<group>"; };
+		D67B21112C3E58FA0029D39F /* StepCounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepCounterView.swift; sourceTree = "<group>"; };
+		D67B21132C3E8ADB0029D39F /* SDGView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SDGView.swift; sourceTree = "<group>"; };
+		D67B21152C3E8FDE0029D39F /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		D67B21172C3ECDFF0029D39F /* MainAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppView.swift; sourceTree = "<group>"; };
 		D6E1D8072C2DEB7E007C1446 /* suslife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = suslife.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E1D80A2C2DEB7E007C1446 /* suslifeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = suslifeApp.swift; sourceTree = "<group>"; };
 		D6E1D80C2C2DEB7E007C1446 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6E1D8112C2DEB80007C1446 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatbotService.swift; sourceTree = "<group>"; };
+		D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatBotView.swift; sourceTree = "<group>"; };
+		D6E1D8242C302C5F007C1446 /* suslife-8c42d8370996.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "suslife-8c42d8370996.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +51,9 @@
 		D6E1D7FE2C2DEB7E007C1446 = {
 			isa = PBXGroup;
 			children = (
+				D67B21132C3E8ADB0029D39F /* SDGView.swift */,
+				D6E1D8242C302C5F007C1446 /* suslife-8c42d8370996.json */,
+				D6E1D81A2C2E8448007C1446 /* Packages */,
 				D6E1D8092C2DEB7E007C1446 /* suslife */,
 				D6E1D8082C2DEB7E007C1446 /* Products */,
 			);
@@ -53,6 +72,12 @@
 			children = (
 				D6E1D80A2C2DEB7E007C1446 /* suslifeApp.swift */,
 				D6E1D80C2C2DEB7E007C1446 /* ContentView.swift */,
+				D67B21172C3ECDFF0029D39F /* MainAppView.swift */,
+				D67B21152C3E8FDE0029D39F /* ProfileView.swift */,
+				D67B21112C3E58FA0029D39F /* StepCounterView.swift */,
+				D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */,
+				D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */,
+				D67B210F2C3E57240029D39F /* ProfileSetUp.swift */,
 				D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */,
 				D6E1D8102C2DEB80007C1446 /* Preview Content */,
 			);
@@ -65,6 +90,13 @@
 				D6E1D8112C2DEB80007C1446 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D6E1D81A2C2E8448007C1446 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Packages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -111,6 +143,9 @@
 				Base,
 			);
 			mainGroup = D6E1D7FE2C2DEB7E007C1446;
+			packageReferences = (
+				D6E1D81E2C2E873F007C1446 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			productRefGroup = D6E1D8082C2DEB7E007C1446 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +162,7 @@
 			files = (
 				D6E1D8122C2DEB80007C1446 /* Preview Assets.xcassets in Resources */,
 				D6E1D80F2C2DEB80007C1446 /* Assets.xcassets in Resources */,
+				D6E1D8252C302C5F007C1446 /* suslife-8c42d8370996.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +174,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6E1D80D2C2DEB7E007C1446 /* ContentView.swift in Sources */,
+				D67B21102C3E57240029D39F /* ProfileSetUp.swift in Sources */,
+				D67B21162C3E8FDE0029D39F /* ProfileView.swift in Sources */,
+				D6E1D8202C2FD079007C1446 /* ChatBotView.swift in Sources */,
+				D67B21182C3ECDFF0029D39F /* MainAppView.swift in Sources */,
+				D6E1D81D2C2E8476007C1446 /* ChatbotService.swift in Sources */,
 				D6E1D80B2C2DEB7E007C1446 /* suslifeApp.swift in Sources */,
+				D67B21142C3E8ADB0029D39F /* SDGView.swift in Sources */,
+				D67B21122C3E58FA0029D39F /* StepCounterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +310,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"suslife/Preview Content\"";
+				DEVELOPMENT_TEAM = P3AKQ7WJJG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -274,6 +318,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -295,6 +340,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"suslife/Preview Content\"";
+				DEVELOPMENT_TEAM = P3AKQ7WJJG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -302,6 +348,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -337,6 +384,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D6E1D81E2C2E873F007C1446 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = D6E1D7FF2C2DEB7E007C1446 /* Project object */;
 }
