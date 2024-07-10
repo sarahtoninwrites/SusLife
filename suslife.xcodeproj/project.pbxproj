@@ -16,7 +16,6 @@
 		D6E1D80D2C2DEB7E007C1446 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D80C2C2DEB7E007C1446 /* ContentView.swift */; };
 		D6E1D80F2C2DEB80007C1446 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */; };
 		D6E1D8122C2DEB80007C1446 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D8112C2DEB80007C1446 /* Preview Assets.xcassets */; };
-		D6E1D81D2C2E8476007C1446 /* ChatbotService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */; };
 		D6E1D8202C2FD079007C1446 /* ChatBotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */; };
 		D6E1D8252C302C5F007C1446 /* suslife-8c42d8370996.json in Resources */ = {isa = PBXBuildFile; fileRef = D6E1D8242C302C5F007C1446 /* suslife-8c42d8370996.json */; };
 /* End PBXBuildFile section */
@@ -32,7 +31,6 @@
 		D6E1D80C2C2DEB7E007C1446 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6E1D8112C2DEB80007C1446 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatbotService.swift; sourceTree = "<group>"; };
 		D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatBotView.swift; sourceTree = "<group>"; };
 		D6E1D8242C302C5F007C1446 /* suslife-8c42d8370996.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "suslife-8c42d8370996.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,7 +73,6 @@
 				D67B21172C3ECDFF0029D39F /* MainAppView.swift */,
 				D67B21152C3E8FDE0029D39F /* ProfileView.swift */,
 				D67B21112C3E58FA0029D39F /* StepCounterView.swift */,
-				D6E1D81C2C2E8476007C1446 /* ChatbotService.swift */,
 				D6E1D81F2C2FD079007C1446 /* ChatBotView.swift */,
 				D67B210F2C3E57240029D39F /* ProfileSetUp.swift */,
 				D6E1D80E2C2DEB80007C1446 /* Assets.xcassets */,
@@ -178,7 +175,6 @@
 				D67B21162C3E8FDE0029D39F /* ProfileView.swift in Sources */,
 				D6E1D8202C2FD079007C1446 /* ChatBotView.swift in Sources */,
 				D67B21182C3ECDFF0029D39F /* MainAppView.swift in Sources */,
-				D6E1D81D2C2E8476007C1446 /* ChatbotService.swift in Sources */,
 				D6E1D80B2C2DEB7E007C1446 /* suslifeApp.swift in Sources */,
 				D67B21142C3E8ADB0029D39F /* SDGView.swift in Sources */,
 				D67B21122C3E58FA0029D39F /* StepCounterView.swift in Sources */,
