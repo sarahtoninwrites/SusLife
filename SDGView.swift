@@ -92,52 +92,6 @@ struct SDGView_Previews: PreviewProvider {
     }
 }
 
-//struct CustomButton: View {
-//    let imageName: String
-//    let destination: AnyView
-//
-//    var body: some View {
-//        NavigationLink(destination: destination) {
-//            Image(imageName)
-//                .resizable()
-//                .scaledToFit()
-//                .frame(width: 150, height: 150)
-//                .padding()
-//                .background(Color.white)
-//                .cornerRadius(10)
-//        }
-//    }
-//}
-//
-//struct CustomButton2: View {
-//    let imageName: String
-//    let url: URL
-//
-//    var body: some View {
-//        Link(destination: url) {
-//            Image(imageName)
-//                .resizable()
-//                .scaledToFit()
-//                .frame(width: 150, height: 150)
-//                .padding()
-//                .background(Color.white)
-//                .cornerRadius(10)
-//        }
-//    }
-//}
-//
-//extension Color {
-//    static func fromRGB(red: Int, green: Int, blue: Int) -> Color {
-//        return Color(
-//            red: Double(red) / 255.0,
-//            green: Double(green) / 255.0,
-//            blue: Double(blue) / 255.0
-//        )
-//    }
-//}
-//
-
-
 struct PovertyAndSocietyView: View {
     var body: some View {
         VStack{
