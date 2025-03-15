@@ -1,6 +1,6 @@
 # 🌱 SusLife - Save the World One Choice at a Time
 
-SusLife is an iOS application designed to encourage sustainable living through engaging activities and thoughtful decision-making. Whether tracking your steps, completing eco-friendly tasks, or keeping up with your streaks, SusLife helps you plant the right choices and build sustainable habits.
+SusLife is an iOS application that encourages sustainable living through engaging activities and thoughtful decision-making. Whether tracking your steps, completing eco-friendly tasks, or keeping up with your streaks, SusLife helps you plant the right choices and build sustainable habits.
 
 ![SusLife Logo](suslife/Assets.xcassets/suslife.imageset/suslife.png)
 
@@ -27,4 +27,6 @@ SusLife is an iOS application designed to encourage sustainable living through e
 - **SF Symbols** for stylish icons and visual elements.
 - **Custom Button Styles** for an enhanced user experience.
 
+
+## APP DEMO: https://youtu.be/q_PeNge8C7s?si=sgMfdFFmNMW-W9fu 
 
