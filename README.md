@@ -2,7 +2,7 @@
 
 SusLife is an iOS application designed to encourage sustainable living through engaging activities and thoughtful decision-making. Whether tracking your steps, completing eco-friendly tasks, or keeping up with your streaks, SusLife helps you plant the right choices and build sustainable habits.
 
-![SusLife Logo](suslife/Assets.xcassets/suslife.imageset/suslife.pngg)
+![SusLife Logo](suslife/Assets.xcassets/suslife.imageset/suslife.png)
 
 ---
 
